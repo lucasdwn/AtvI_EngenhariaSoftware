@@ -1,0 +1,147 @@
+.teste a{
+    color: #EEF523;
+    font-size: 25px;
+}
+
+.superior{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.petroleo{
+    width:17rem;
+    height: 15rem;
+    border-radius: 30px;
+    background: #AFFFB5;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.petroleo h2{
+    font-size: 15px;
+    margin: auto;
+}
+.petroleo h1{
+    font-size: 15px;
+    margin: auto;
+}
+
+.futebol{
+    width:17rem;
+    height: 15rem;
+    border-radius: 30px;
+    background: #FFD9D9;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.futebol h2{
+    font-size: 15px;
+    margin: auto;
+}
+.futebol h1{
+    font-size: 15px;
+    margin: auto;
+}
+
+.telegram{
+    width:17rem;
+    height: 15rem;
+    border-radius: 30px;
+    background: #CFFAFF;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.telegram h2{
+    font-size: 15px;
+    margin: auto;
+}
+.telegram h1{
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+.inferior{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.missil{
+    width:17rem;
+    height: 15rem;
+    border-radius: 30px;
+    background: #F5FBC2;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.missil h2{
+    font-size: 15px;
+    margin: auto;
+}
+.missil h1{
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+.cursos{
+    width:17rem;
+    height: 15rem;
+    border-radius: 30px;
+    background: #BC9BFF;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cursos h2{
+    font-size: 15px;
+    margin: auto;
+}
+.cursos h1{
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+.prqtecnologico{
+    width:17rem;
+    height: 15rem;
+    border-radius: 30px;
+    background: #FFDB77;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prqtecnologico h2{
+    font-size: 15px;
+    margin: auto;
+}
+.prqtecnologico h1{
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
