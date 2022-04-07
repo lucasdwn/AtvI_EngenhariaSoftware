@@ -1,6 +1,8 @@
 .teste a{
     color: #EEF523;
     font-size: 25px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin-right: 50px;
 }
 
 .superior{
@@ -144,4 +146,15 @@
 
 img{
     width: 100px;
+}
+
+.logo{
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.logo img{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
